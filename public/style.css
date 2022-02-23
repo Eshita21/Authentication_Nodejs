@@ -1,0 +1,33 @@
+body{
+  background-color:lavenderblush;
+  font-family: 'Kotta One', serif;
+  font-size:20px
+}
+.row{
+  margin-top: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.col-6{
+  background-color:azure;
+  padding: 40px;
+  border-radius:5px;
+  border:1px solid black;
+}
+.field{
+  padding:10px;
+}
+.alert {
+  margin-bottom: 0;
+  padding: 20px;
+  background-color:crimson;
+  color: white;
+}
+
+
+.form-check{
+  margin-left:10px;
+}
+h3{
+  font-weight: bold;
+}
